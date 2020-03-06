@@ -1,0 +1,22 @@
+{
+    "name": "Kabeers Network",
+    "short_name" : "Kabeers Network",
+    "start_url": "index.php",
+    "scope" : "./",
+    "icons": [
+        {
+            "src": "./kslogo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./kslogo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "display": "standalone",
+    "orientation":  "potrait"
+}
